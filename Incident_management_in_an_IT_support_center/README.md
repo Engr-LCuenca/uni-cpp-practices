@@ -2,7 +2,7 @@
 
 A simple C++ console application that simulates incident registration and reporting for an IT support environment.
 
-## 🚀 Overview
+## Overview
 
 This project collects incident data such as:
 
@@ -18,7 +18,7 @@ Once the data is entered, the program generates a summary report including:
 - critical incidents by shift
 - the shift with the highest average severity
 
-## ✨ Features
+## Features
 
 - Input validation for the number of incidents
 - Input validation for shift selection
@@ -27,7 +27,7 @@ Once the data is entered, the program generates a summary report including:
 - Per-shift analysis
 - Clear console-based reporting
 
-## ▶️ How to Run
+## How to Run
 
 Compile the program with:
 
@@ -41,7 +41,7 @@ Run it with:
 ./incident_management
 ```
 
-## 🧪 Example Flow
+## Example Flow
 
 The program will prompt you to enter:
 
@@ -51,7 +51,7 @@ The program will prompt you to enter:
 
 After that, it will display a structured report with the computed metrics.
 
-## 📌 Purpose
+## Purpose
 
 This project is intended as a C++ practice exercise focused on:
 
@@ -61,7 +61,7 @@ This project is intended as a C++ practice exercise focused on:
 - simple statistics
 - console-based user interaction
 
-## 🛠️ Technologies
+## Technologies
 
 - C++
 - Standard Library
