@@ -53,4 +53,4 @@ This project is intended as a daily C++ practice exercise to improve logic, cont
 ## Technologies
 
 - C++
-- Standard Library
+- Standard Library (iostream, ctime and cstdlib)
