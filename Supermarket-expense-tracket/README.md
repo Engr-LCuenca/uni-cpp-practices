@@ -2,7 +2,7 @@
 
 A simple C++ console application for tracking supermarket expenses and analyzing spending by category.
 
-## 🚀 Overview
+## Overview
 
 This project helps users record purchases made at a supermarket and review their spending in a structured way. It allows the user to:
 
@@ -11,7 +11,7 @@ This project helps users record purchases made at a supermarket and review their
 - see a financial summary,
 - view totals grouped by category.
 
-## ✨ Features
+## Features
 
 - Add expenses with name, category, and amount
 - View all recorded expenses
@@ -21,7 +21,7 @@ This project helps users record purchases made at a supermarket and review their
 - Group expenses by category
 - Simple console-based menu interface
 
-## ▶️ How to Run
+## How to Run
 
 Compile the program with:
 
@@ -35,14 +35,14 @@ Run it with:
 ./Expense_tracker
 ```
 
-## 🧪 Example Workflow
+## Example Workflow
 
 1. Start the program.
 2. Choose an option from the menu.
 3. Add one or more items and their prices.
 4. Review the summary or category breakdown.
 
-## 📌 Purpose
+## Purpose
 
 This project is intended as a daily C++ practice exercise focused on:
 
@@ -52,7 +52,7 @@ This project is intended as a daily C++ practice exercise focused on:
 - data organization
 - simple console applications
 
-## 🛠️ Technologies
+## Technologies
 
 - C++
 - Standard Library
