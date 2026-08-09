@@ -21,7 +21,6 @@ g++ Geographic_Positioning_System.cpp -o gps_antennas
 ```
 
 Run
-//
 
 ```bash
 ./gps_antennas
