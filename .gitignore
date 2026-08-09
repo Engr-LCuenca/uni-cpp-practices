@@ -1,0 +1,18 @@
+# Build outputs
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
