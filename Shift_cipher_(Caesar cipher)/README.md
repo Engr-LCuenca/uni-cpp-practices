@@ -55,4 +55,4 @@ This project is ideal for daily C++ practice because it reinforces:
 ## Technologies
 
 - C++
-- Standard Library
+- Standard Library 
