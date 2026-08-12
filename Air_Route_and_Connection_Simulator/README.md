@@ -33,7 +33,7 @@ If the user checks the route from Lima to Cusco, the program can detect a direct
 
 This project demonstrates:
 
-- adjacency matrices in graph theory,
-- simple graph traversal concepts,
-- control flow with menus and validation,
+- adjacency matrices in graph theory.
+- simple graph traversal concepts.
+- control flow with menus and validation.
 - clean C++ structures for practical modeling.
