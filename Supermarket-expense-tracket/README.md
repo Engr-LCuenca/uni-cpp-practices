@@ -40,7 +40,7 @@ Run it with:
 1. Start the program.
 2. Choose an option from the menu.
 3. Add one or more items and their prices.
-4. Review the summary or category breakdown.
+4. Review the summary or category breakdown. 
 
 ## Purpose
 
