@@ -1,6 +1,6 @@
 # Air Routes and Connections Simulator
 
-A polished C++ console application that models a small air transport network using an adjacency matrix.
+A polished C++ console application that models a small air transport network using an adjacency matrix. 
 
 ## Overview
 
