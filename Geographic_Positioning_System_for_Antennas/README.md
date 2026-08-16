@@ -42,6 +42,6 @@ How the pointer function works (summary)
 
 Extensions
 
-- Accept user input for coordinates and a list of antennas from a file (CSV).
+- Accept user input for coordinates and a list of antennas from a file (CSV). 
 - Return the full sorted list of antennas by distance.
 - Use k-d tree or spatial hashing for large antenna arrays.
