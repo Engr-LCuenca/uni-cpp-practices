@@ -13,11 +13,11 @@ This project demonstrates how to model a bank account using a class in C++. The 
 
 ## Features
 
-- Create an account with a name and initial balance
-- Deposit money securely
-- Withdraw money with balance validation
-- Prevent invalid or negative amounts
-- Display the current balance with formatted output
+- Create an account with a name and initial balance.
+- Deposit money securely.
+- Withdraw money with balance validation.
+- Prevent invalid or negative amounts.
+- Display the current balance with formatted output.
 
 ## How to Run
 
