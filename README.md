@@ -19,7 +19,7 @@ CI
 
 This repo includes a simple GitHub Actions workflow that compiles all `*.cpp` files to ensure they build on push and pull requests.
 
-License
+License:
 
 MIT
 
