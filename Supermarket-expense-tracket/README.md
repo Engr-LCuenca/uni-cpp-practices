@@ -6,7 +6,7 @@ A simple C++ console application for tracking supermarket expenses and analyzing
 
 This project helps users record purchases made at a supermarket and review their spending in a structured way. It allows the user to:
 
-- add new expenses,
+- add new expenses,   
 - view all recorded expenses,
 - see a financial summary,
 - view totals grouped by category.
